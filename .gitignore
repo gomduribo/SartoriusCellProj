@@ -1,0 +1,6 @@
+models_1050/
+models_cpu/
+models_cpu_square/
+test/
+train/
+train.csv/
