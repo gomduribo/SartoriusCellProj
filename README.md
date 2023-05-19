@@ -4,6 +4,8 @@
 
 ![Alt text](/images/train_truth.png)
 
+Detail description on my blog(Korean):
+https://gomduribo.tistory.com/39
 
 This task provides a 3x520x704 cell image and ground truth as shown in Figure 1. It provides 606 images and masks as a Train dataset and 3 images as a Test dataset.
 
