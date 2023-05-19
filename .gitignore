@@ -3,6 +3,8 @@ models_cpu/
 models_cpu_square/
 models_1050_square/
 models_1050_square_2/
+models_1050_square_2_1/
+models_1050_square_2_1_BCE/
 test/
 train/
 train.csv/
