@@ -70,3 +70,5 @@ Less than 5 Epoch passed during learning, so we found a trend that diverges past
 Test image (left), inference result during 3Epoch learning (middle), inference result during 5Epoch learning (right)
 
 Perhaps because there was little learning data, it was confirmed that the model who learned 3Epoch was better at reasoning than the model who learned 5Epoch.
+
+![Alt text](/images/result2.png)
